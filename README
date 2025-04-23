@@ -1,0 +1,65 @@
+<!DOCTYPE html>
+<html>
+<head>
+
+ <link rel="icon" type="image/png" href="Images/favicon.png">
+  <title>Alyssa Lamb</title>
+
+  <style>
+    body {
+      text-align: center;
+      background: url("images/backgroundblue.jpg");
+      background-size: cover;
+      color: white;
+      font-family: Verdana, sans-serif;
+
+    button{
+	background-color:purple;
+	color:white;
+	font-size:32px;
+    }
+    p {
+      font-size: 36px;
+    }
+    input {
+      border: 0;
+      padding: 10px;
+      font-size: 18px;
+    }
+
+	a:link {
+  text-decoration: none;
+	color: white;
+	}
+
+	a:visited {
+  text-decoration: none;
+	color: white;
+	}
+
+	a:hover {
+  text-decoration: none;
+	}
+
+	a:active {
+  text-decoration: none;
+	color: white;
+	}
+  </style>
+</head>
+<body>
+
+  <img style="border: 5px solid;  border-radius: 20px; border-color:rgb(0, 143, 179);" src="Images/Profile.jpg"> <!---profile--->
+  <p style="text-shadow: 4px 2px gray;">Hi! I'm Alyssa, Welcome to My Resume</p>
+
+<button><a href="/www/About_Me.html">Learn More!</a></button>
+
+<script>
+
+
+
+
+</script>
+
+</body>
+</html>
